@@ -1,0 +1,2 @@
+# portfolio
+A professional, full-stack personal portfolio application designed to showcase my projects, skills, and experience. Built with Node.js and Express, this app demonstrates my ability to build a dynamic, server-side rendered web application with a focus on performance and clean code
