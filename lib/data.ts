@@ -62,24 +62,28 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "E-commerce ",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      `A modern and fully responsive e-commerce web application built using React and Tailwind CSS.
+The application allows users to browse products, view detailed product information, add items to the shopping cart ;`,
+    tags: ["React",  "Tailwind", "Redux"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
-    description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+    title: "movies-platform",
+    description: 
+      `A modern and responsive web application built with React and Tailwind CSS that displays the Top 20 trending movies of the day.
+The application `,
+ tags: ["React", "Tailwind","Redux" ],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "Project Description",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      `A high-quality and pixel-perfect frontend web application built using JavaScript, CSS, and Bootstrap.
+The project delivers a clean, modern, and user-friendly interface with a strong focus on design accuracy, responsiveness, and smooth user interactions.
+.`,
+    tags: ["js", "bootstrap", "css", "html", ],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
